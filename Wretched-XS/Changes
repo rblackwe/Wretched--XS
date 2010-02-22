@@ -1,0 +1,6 @@
+Revision history for Perl extension Wretched::XS.
+
+0.01  Mon Feb 22 14:19:02 2010
+	- original version; created by h2xs 1.23 with options
+		-A -x -n Wretched::XS
+
