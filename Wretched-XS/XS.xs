@@ -7,3 +7,4 @@
 
 MODULE = Wretched::XS		PACKAGE = Wretched::XS		
 
+void wretched_hello()
